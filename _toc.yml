@@ -1,0 +1,45 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: markdown
+- file: thermo
+- file: markdown-notebooks
+
+
+
+# Mock TOC:
+
+# Introduction and Overview:
+
+# Thermodynamics and Expansion en bref
+
+# Setting Up motivation for BBN 
+
+# NSE and Saha Equation
+
+## What happens when it is not in equillibrium?
+
+# Nuclear reaction structure and theory
+
+# Weak rates
+
+## Brief comments on rates and history of rates/FCZ I, II, ... V
+
+## Brief note on eta and uncertainty of H, omegab h^2, all the same just different ways to express
+
+# After all this, form the reaction matrix
+
+### Solving!
+
+# Implicit vs. Explicit methods and stability profiles
+
+# Built-in solver and dynamic step size
+
+# Actually solve it
+
+# Vary through eta0?
+
+# Vary through omegab h^2 to get famous plots
